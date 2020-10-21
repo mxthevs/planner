@@ -1,8 +1,8 @@
 {
   "name": "planner",
-  "displayName": "planner",
+  "displayName": "Planner",
   "expo": {
-    "name": "planner",
+    "name": "Planner",
     "slug": "planner",
     "version": "1.0.0",
     "assetBundlePatterns": [
