@@ -1,0 +1,12 @@
+{
+  "name": "planner",
+  "displayName": "planner",
+  "expo": {
+    "name": "planner",
+    "slug": "planner",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
